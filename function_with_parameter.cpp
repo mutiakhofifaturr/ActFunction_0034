@@ -9,3 +9,8 @@ void input()
     cout << "isikan jari jari : ";
     cin >> r;
 }
+
+float luas(float a)
+{
+    cout << "luasnya adalah : " << luas(r)
+}
